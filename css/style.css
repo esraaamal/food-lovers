@@ -3,19 +3,20 @@ color:aqua ;
 font-size: 50px;
 padding:100px;
 text-align: center;
-border: #2980b9 solid ;
-background-color: brown;
+border: #8e44ad solid 30px;
+background-color:#9b59b6 ;
+padding: 50px; 
 
 }
 nav{
-    display:inline-block;
+    display: inline-block;
     color:navajowhite;
-    font-size: 50px;
+    font-size: 25px;
     font-style: normal;
     border: burlywood;
 }
 
-footer{
+article{
 
     border:darkmagenta;
     
