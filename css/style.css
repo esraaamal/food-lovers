@@ -1,0 +1,22 @@
+header {
+color:aqua ;
+font-size: 50px;
+padding:100px;
+text-align: center;
+border: #2980b9 solid ;
+background-color: brown;
+
+}
+nav{
+
+    color:navajowhite;
+    font-size: 50px;
+    font-style: normal;
+    border: burlywood;
+}
+
+footer{
+
+    border:darkmagenta;
+    
+}
