@@ -1,13 +1,4 @@
-/* header {
-color:aqua ;
-font-size: 50px;
-padding:100px;
-text-align: center;
-border: #8e44ad solid 30px;
-background-color:#9b59b6 ;
-padding: 50px; 
 
-} */
 
 nav{
     display: inline-block;
@@ -50,6 +41,7 @@ h1{
     text-align: center;
     font-weight: 700;
 margin-bottom: 25px;
+margin-left: -100px;
 }
 nav.container ul{
     display: flex;
@@ -78,4 +70,36 @@ nav.container ul li a{
     border-radius: 7px;
     cursor: pointer;
 
+
+}
+footer{
+    border: 1px solid darkmagenta;
+    max-width: 1140px;
+    margin:0 auto;
+    overflow: hidden; 
+      background: #d1ddf3;
+      text-align: center;
+}
+ div.container .pic{
+     text-align: center;
+    
+ }
+ div.container .pic img{
+ width: 900px;
+ height: 400px;
+ object-fit: cover;
+ border: 9px dotted #d1ddf3 ;
+}
+div.container .art{
+    max-width: 900px;
+    padding: 0px 0px 0px 100px;
+    
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+   
 }
